@@ -1,7 +1,7 @@
 # Audio-spectrum-analyser
 
 
-Caractéristique du signal audio
+To select a local audio file
 ```matlab
 % Sélection du fichier audio
 [file, path] = uigetfile(...
