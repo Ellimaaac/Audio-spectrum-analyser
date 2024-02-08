@@ -1,7 +1,7 @@
 # Audio-spectrum-analyser
 
 
-To select a local audio file
+# To select a local audio file
 ```matlab
 % Sélection du fichier audio
 [file, path] = uigetfile(...
